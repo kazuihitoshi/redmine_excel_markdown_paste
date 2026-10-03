@@ -1,0 +1,3 @@
+ja:
+  excel_markdown_paste_name: Excel Markdown 貼り付け
+  excel_markdown_paste_description: テキスト書式が Markdown のとき、チケットの説明・コメントへ Excel のセル範囲を Markdown の表として貼り付けます。

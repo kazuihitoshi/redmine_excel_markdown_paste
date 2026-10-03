@@ -1,0 +1,3 @@
+en:
+  excel_markdown_paste_name: Excel Markdown Paste
+  excel_markdown_paste_description: Pastes an Excel cell range into issue descriptions and notes as a Markdown table when text formatting is Markdown.
