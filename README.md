@@ -1,10 +1,10 @@
 # Redmine Plugin Excel Markdown Paste
 
-Redmineのチケットテキスト書式が Markdown（CommonMark）のとき、チケットの説明・コメントへ Excel のセル範囲を貼り付けると、Markdown の表として挿入します。
+Redmineのチケットテキスト書式が Markdown（CommonMark）のとき、チケットの説明・コメントへ Excel のセル範囲を貼り付けると、Markdown の表として挿入できます。
 
 ![Excel のセル範囲を Markdown の表として貼り付け](docs/redmine_excel_paste_mov.gif)
 
-画像の貼り付けはこのプラグインを通しません。Redmine 標準の `![]()` のままです。Excel からコピーした図や `<img>` は表に入れません。
+画像の貼り付けはこのプラグインを通しません。Redmine 標準の `![]()` のままです。Excel からコピーした図や `<img>` は表から除外します。
 
 ## 動作
 
