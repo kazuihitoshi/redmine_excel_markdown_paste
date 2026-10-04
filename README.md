@@ -18,7 +18,7 @@ Redmineのチケットテキスト書式が Markdown（CommonMark）のとき、
 
 Copyright 2026 kazuihitoshi@gmail.com
 
-Apache License, Version 2.0 です。本文は `LICENSE` にあります。
+GNU General Public License version 2（またはそれ以降のバージョン）です。本文は `LICENSE` にあります。
 
 ## 導入
 
